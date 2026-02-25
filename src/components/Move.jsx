@@ -11,5 +11,7 @@ export default function Move() {
     <>
      <p onMouseMove={moveHandler} >Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam itaque eius minima, incidunt earum illo repellat? Voluptatibus ab, necessitatibus earum blanditiis voluptates laborum inventore repellat placeat omnis suscipit aspernatur! Nam.</p> 
     </>
+    
+    
   )
 }
